@@ -1,0 +1,10 @@
+#etchContainer {
+    border-style: solid;
+    border-color: #000000;
+    display: inline-grid;
+    height: 600px;
+    width: 600px;
+}
+body {
+    background-size: contain;
+}
